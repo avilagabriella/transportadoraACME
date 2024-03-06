@@ -1,5 +1,5 @@
 # Transportadora ACM
-## Projeto Full Stack, exemplo de conceitos como:
+## Objetivo: Projeto Full Stack, exemplo de conceitos como:
 
 - MVC (Modal View Controller)
 - CRUD (Create Read Update Delete)
@@ -18,10 +18,15 @@
 - cors
 - 
 ## Como testar:
+- 1 Faça download deste repositório
+- 2 Abra com VsCode
+- 3 Abra um terminal cmd ou bash
+- 4 Navegue até a pasta ./api e instale as dependências usando npm e execute com nodemon ou node
 
   ```
   cd api
   npm i
   npx nodemon
+  
   ```
  
