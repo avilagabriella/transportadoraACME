@@ -22,11 +22,6 @@
   ```
   cd api
   npm i
-  ```
-  ```
-  node server.js
-  ou
-  nodemon
-  ou
   npx nodemon
   ```
+ 
