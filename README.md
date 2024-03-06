@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Transportadora ACM
 ## Objetivo: Projeto Full Stack, exemplo de conceitos como:
 
@@ -35,3 +36,6 @@
  - 6 Copie o script de criação do banco de dados e cole no shell do MariaDB (./bd/script.sql), copie também os dados de teste que estão na pasta (./testes/populacaobd.sql)
  - 7 Abra o insomnia e importe o arquivo de teste (./teste/insomnia.json)
  
+=======
+
+>>>>>>> 7737fe3fccc2ce8ebac9b5caff19934cb68d1308
